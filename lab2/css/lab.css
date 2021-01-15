@@ -1,0 +1,21 @@
+h1 {
+    color: #add8e6;
+    font-size: 300%;
+}
+
+p {
+    font-family:monospace;
+    color: #add8e6;
+    text-indent: 30px;
+    margin-left: 20px;
+}
+#content {
+    background-color: #000000;
+    width: 500px;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 1px;
+    font-size: 20px;
+
+}

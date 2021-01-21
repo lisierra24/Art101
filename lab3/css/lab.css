@@ -1,0 +1,35 @@
+body {
+     background-color: #1C5373;
+     margin-bottom: 2.5%;
+ }
+body div h1 {
+    color: #add8e6;
+    text-align: center;
+    font-size: 300%;
+    font-family:"cursive";
+}
+body div h2 {
+  color: #add8e6;
+  text-align: center;
+  font-size: 300%;
+  font-family:"cursive"
+}
+body div h3 {
+  color: #add8e6;
+  text-align: center;
+  font-size: 300%;
+  font-family:"cursive";
+}
+p {
+    font-family:"sans-serif";
+    color: #E0B036;
+    text-indent: center;
+    text-align: center;
+    font-size: 150%;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

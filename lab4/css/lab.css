@@ -1,0 +1,46 @@
+body {
+     background-color: #AEE094;
+     margin-bottom: 2.5%;
+     margin-left: 4.5%;
+     margin-right: 4.5%;
+ }
+body div h1 {
+    color: #614060;
+    text-align: center;
+    font-size: 300%;
+    font-family:"cursive";
+}
+body div h2 {
+  color: #614060;
+  text-align: center;
+  font-size: 300%;
+  font-family:"cursive"
+}
+body div h3 {
+  color: #614060;
+  text-align: center;
+  font-size: 300%;
+  font-family:"cursive";
+}
+body div h4{
+    color: #614060;
+    text-align: center;
+    font-size: 300%;
+    font-family: "cursive";
+}
+ol li {
+  padding: 15px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+p {
+    font-family:"sans-serif";
+    color: #1C5373;
+    text-indent: center;
+    text-align: center;
+    font-size: 150%;
+}

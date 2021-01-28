@@ -32,7 +32,7 @@ body div h4{
 h5{
     color: #add8e6;
     text-align: left;
-    text-indent: 10px;
+    text-indent: auto;
     font-size: 150%;
     font-family: "cursive";
 }
@@ -46,7 +46,6 @@ p{
 .output{
   font-family:"sans-serif";
   color: #E0B036;
-  text-indent: 10px;
   text-align: left;
   font-size: 150%;
 }

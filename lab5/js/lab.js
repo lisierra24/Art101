@@ -12,8 +12,8 @@ var year = 2015;
 var age = 2021 - year;
 
 // output
-document.writenln("Make: " + make + "<br>");
-document.writenln("Model: " + model + "<br>");
-document.writenln("Color: " + color + "<br>");
-document.writenln("Year: " + year + "<br>");
-document.writenln("Age: " + age + "<br>");
+document.writeln("Make: " + make + "<br>");
+document.writeln("Model: " + model + "<br>");
+document.writeln("Color: " + color + "<br>");
+document.writeln("Year: " + year + "<br>");
+document.writeln("Age: " + age + "<br>");

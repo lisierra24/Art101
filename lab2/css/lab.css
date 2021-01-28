@@ -1,22 +1,31 @@
 h1 {
-    color: #add8e6;
+    color: #614060;
     text-align; center
     font-size: 300%;
+}
+body div h2{
+    color: #1C5373;
+    text-align: left;
+    text-indent: 55px;
 }
 
 p {
     font-family:monospace;
-    color: #add8e6;
+    color: #1C5373;
     text-indent: 20px;
     margin-left: 25px;
+
 }
 #content {
-    background-color: #000000;
     width: auto;
     min-height: auto;
-    padding: 10px;
+    padding: 50px;
     margin: auto;
-    border: solid 1px #444444;
-    font-size: 20px;
+    border: solid 20px #614060;
+    font-size: 25px;
 
+}
+body {
+  background-color:#AEE094;
+  text-align:center;
 }

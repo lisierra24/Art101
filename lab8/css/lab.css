@@ -1,0 +1,46 @@
+
+body {
+     background-color: #AEE094;
+     margin-bottom: 3%;
+     margin-left: 4.5%;
+     margin-right: 4.5%;
+ }
+h1 {
+    color: #614060;
+    text-align: center;
+    font-size: 300%;
+    font-family:"cursive";
+}
+body div h2 {
+  color: #614060;
+  text-align: center;
+  font-size: 300%;
+  font-family:"cursive"
+}
+body div h3 {
+  color: #614060;
+  text-align: center;
+  font-size: 300%;
+  font-family:"cursive";
+}
+
+h5{
+    color: #614060;
+    text-align: left;
+    text-indent: auto;
+    font-size: 150%;
+    font-family: "cursive";
+}
+p{
+    font-family:"sans-serif";
+    color: #1C5373;
+    text-indent: center;
+    text-align: center;
+    font-size: 150%;
+}
+.output{
+  font-family:"sans-serif";
+  color: #1C5373;
+  text-align: left;
+  font-size: 250%;
+}

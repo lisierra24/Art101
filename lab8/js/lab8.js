@@ -2,6 +2,12 @@
 
 
 
+function firstThing(test) {
+  console.log(test + ": This is the first thing. <br>")
+}
+function secondThing(test) {
+  console.log(test + ": This is the second thing. <br>")
+}
 function thirdThing(test) {
   console.log(test + ": This is the third thing. <br>")
 }
@@ -18,7 +24,7 @@ setTimeout(function() {
   secondThing("TEST 2");
 }, 0);
 setTimeout(function() {
-  thirThing("TEST 2");
+  thirdThing("TEST 2");
 }, 0);
 
 // test 3 - order is 2, 3, 1.
@@ -29,5 +35,5 @@ setTimeout(function() {
   secondThing("TEST 3");
 }, 1000);
 setTimeout(function() {
-  thirThing("TEST 3");
+  thirdThing("TEST 3");
 }, 2000);

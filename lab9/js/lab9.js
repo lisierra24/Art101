@@ -9,6 +9,3 @@ var new2El = document.getElementById("h1");
 new2El.innerHTML = "Lab 9";
 document.body.appendChild(new1El);
 document.body.appendChild(new2El);
-
-
-var new3El = document.getElementById("h2");

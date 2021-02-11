@@ -5,7 +5,7 @@
 var outputEl = document.getElementById("output");
 var new1El = document.createElement("p");
 new1El.innerHTML = "JavaScript for the Web";
-var new2El = document.getElementById("h1");
+var new2El = document.createElement("h1");
 new2El.innerHTML = "Lab 9";
 document.body.appendChild(new1El);
 document.body.appendChild(new2El);

@@ -30,6 +30,12 @@ body div h4{
     font-size: 330%;
     font-family: "cursive";
 }
+body div h5{
+    color: #add8e6;
+    text-align: center;
+    font-size: 330%;
+    font-family: "cursive";
+}
 p{
     font-family:"sans-serif";
     color: #E0B036;
@@ -46,5 +52,12 @@ p{
     padding: 50px;
     background-color: PapayaWhip;
     border: solid 1px #333333;
-    min-height: 80vh;
+    min
+}
+#output{
+      padding: 50px;
+      background-color: PapayaWhip;
+      border: solid 1px #333333;
+      min
+  }
 }
